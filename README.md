@@ -4,7 +4,7 @@
 Midterm Project for CNM Ingenuity Full Time Internet of Things Deep Dive
 
 ##Requirements
-1.Control all the Hue Lights in the classroom
+1. Control all the Hue Lights in the classroom
 1. Control at least two Wemo outlets in the classroom
 1. Display dynamic messages on the OLED
 1. Use at least 3 additional components.
