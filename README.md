@@ -1,9 +1,9 @@
 # smart-room-controller
 
-##About
+## About
 Midterm Project for CNM Ingenuity Full Time Internet of Things Deep Dive
 
-##Requirements
+## Requirements
 1. Control all the Hue Lights in the classroom
 1. Control at least two Wemo outlets in the classroom
 1. Display dynamic messages on the OLED
