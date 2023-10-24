@@ -15,3 +15,9 @@ Midterm Project for CNM Ingenuity Full Time Internet of Things Deep Dive
 1. A component made at FUSE
 1. Extra credit: Use a component we haven't learned in class
 1. Extra extra credit: create a custom bitmap for OLED  
+
+## Idea
+Create a wall-mounted hexagonal lightbox with a laser-etch and integrated LED strips. 
+A BME280 and MQ135 sensor will be mounted near the top to measure ambient conditions. 
+An MFRC522 RFID reader near the bottom will be used to initiate "Arriving Home" and "Departing" routines with a key fob.
+Buttons on the bottom edge will be used to activiate more specific devices. 
