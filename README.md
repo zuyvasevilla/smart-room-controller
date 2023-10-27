@@ -1,7 +1,7 @@
 # smart-room-controller
 
 ## About
-Midterm Project for CNM Ingenuity Full Time Internet of Things Deep Dive
+Midterm Project for CNM Ingenuity Full Time Internet of Things Deep Dive.
 
 ## Requirements
 1. Control all the Hue Lights in the classroom
